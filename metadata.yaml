@@ -1,0 +1,35 @@
+_repo: The-True-Story-of-My-Life--A-Sketch_7007
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Howitt, Mary Botham
+    alias: Hewitt, Mrs. (Mary Botham)
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '5477'
+    url: http://www.gutenberg.org/2009/agents/5477
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: 1847 Edition.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Danish -- 19th century -- Biography'
+- !lcsh 'Andersen, H. C. (Hans Christian), 1805-1875'
+- !lcc 'PT'
+- GITenberg
+title: 'The True Story of My Life: A Sketch'
+url: http://www.gutenberg.org/ebooks/7007
